@@ -6,6 +6,9 @@ This project is an AI-powered web application that allows users to upload a vide
 ## 📌 Demo
 https://github.com/Jd1430/AI-Video-Summarization-Quiz-Generator-Using-LLMs/issues/1#issue-2948714607
 
+## Project Demo
+https://github.com/Jd1430/AI-Video-Summarization-Quiz-Generator-Using-LLMs/issues/1#issue-2948714607
+
 ## 🚀 Features
 - **YouTube Video Processing**: Extracts audio from YouTube videos.
 - **Local Video Processing**: Upload and extract audio from video files.
