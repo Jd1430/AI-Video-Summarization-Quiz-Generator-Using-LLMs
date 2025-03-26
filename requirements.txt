@@ -1,0 +1,10 @@
+deep_translator
+groq==0.18.0
+moviepy==1.0.3
+os
+pkg_resources
+re
+streamlit==1.42.2
+tempfile
+whisper
+yt_dlp
