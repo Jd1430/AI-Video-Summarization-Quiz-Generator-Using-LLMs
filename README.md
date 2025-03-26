@@ -3,8 +3,8 @@
 ## 📌 Overview
 This project is an AI-powered web application that allows users to upload a video file or paste a YouTube link. The system extracts the audio, transcribes it into text using Whisper AI, translates it into a selected language, and generates a detailed summary using Groq LLM. Additionally, an AI-powered quiz generator creates questions based on the transcript and summary, allowing users to test their understanding interactively. The quiz provides multiple difficulty levels, instant feedback, and a final score. It supports both YouTube videos and uploaded files.
 
-## Project Demo  
-[🎥 Watch the Video](https://github.com/user-attachments/assets/afdf9528-f043-46d1-9d33-3d5d250b75db)
+## 🎥 Project Demo  
+[ Watch the Video](https://github.com/user-attachments/assets/7848d276-bfa4-4f28-b53a-619e6af8edb0)
 
 ## 🚀 Features
 - **YouTube Video Processing**: Extracts audio from YouTube videos.
